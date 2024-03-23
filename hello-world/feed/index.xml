@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
+	Comentários sobre: Hello world!	</title>
 	<atom:link href="https://celsofrancaneto.github.io/Monti-Advocacia/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://celsofrancaneto.github.io/Monti-Advocacia/hello-world/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Por: A WordPress Commenter		</title>
 		<link>https://celsofrancaneto.github.io/Monti-Advocacia/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
