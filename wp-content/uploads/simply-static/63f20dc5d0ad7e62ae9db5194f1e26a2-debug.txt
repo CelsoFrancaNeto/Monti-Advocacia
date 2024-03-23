@@ -1,0 +1,23 @@
+[2024-03-22 18:24:28] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local
+[2024-03-22 18:24:59] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local
+[2024-03-22 18:25:29] [class-ss-admin-settings.php:541] Received request to cancel static archive generation
+[2024-03-22 18:25:29] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:29] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:30] [class-ss-admin-settings.php:541] Received request to cancel static archive generation
+[2024-03-22 18:25:30] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:30] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:34] [class-ss-admin-settings.php:541] Received request to cancel static archive generation
+[2024-03-22 18:25:34] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:34] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:35] [class-ss-admin-settings.php:541] Received request to cancel static archive generation
+[2024-03-22 18:25:35] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:35] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:39] [class-ss-archive-creation-job.php:132] Current task: cancel
+[2024-03-22 18:25:39] [class-ss-archive-creation-job.php:149] Performing task: cancel
+[2024-03-22 18:25:39] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2024-03-22 18:25:39] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:39] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:41] [class-ss-admin-settings.php:541] Received request to cancel static archive generation
+[2024-03-22 18:25:41] [class-ss-archive-creation-job.php:217] Cancelling job; job is not done
+[2024-03-22 18:25:41] [class-ss-archive-creation-job.php:228] The queue isn't empty; overwriting current task with a cancel task
+[2024-03-22 18:25:44] [class-ss-archive-creation-job.php:380] Error: (1) Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, string given in C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\class-ss-util.php:540Stack trace:#0 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\class-ss-util.php(540): array_key_exists('cancel', '')#1 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-task.php(46): Simply_Static\Util::add_archive_status_message('', 'cancel', 'Cancelling job')#2 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-cancel-task.php(22): Simply_Static\Task->save_status_message('Cancelling job')#3 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php(150): Simply_Static\Cancel_Task->perform()#4 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\vendor\a5hleyrich\wp-background-processing\classes\wp-background-process.php(516): Simply_Static\Archive_Creation_Job->task('cancel')#5 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\vendor\a5hleyrich\wp-background-processing\classes\wp-background-process.php(333): WP_Background_Process->handle()#6 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-includes\class-wp-hook.php(324): WP_Background_Process->maybe_handle('')#7 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)#8 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)#9 C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp_arch...')#10 {main}  thrown in <b>C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public\wp-content\plugins\simply-static\src\class-ss-util.php</b> on line <b>540</b>

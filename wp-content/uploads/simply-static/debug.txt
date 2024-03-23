@@ -1,0 +1,649 @@
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bce2abe-IHRTxe.tmp
+[2024-03-22 18:02:36] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?simply_static_page=1300
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?simply_static_page=1300
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:103] Filesize: 165548 bytes
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-sfnt
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf
+[2024-03-22 18:02:36] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bce2abe-IHRTxe.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff
+[2024-03-22 18:02:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd0073c-aAigbM.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?simply_static_page=1301
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?simply_static_page=1301
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 98024 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd0073c-aAigbM.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd11831-yrXHRP.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?simply_static_page=1302
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?simply_static_page=1302
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 77160 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff2
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd11831-yrXHRP.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd20b54-RwYW3x.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf?simply_static_page=1303
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf?simply_static_page=1303
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 134808 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-sfnt
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd20b54-RwYW3x.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd2fb00-9c8N6o.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js?simply_static_page=1304
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js?simply_static_page=1304
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 6410 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd2fb00-9c8N6o.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd402cc-emPYQJ.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js?simply_static_page=1305
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js?simply_static_page=1305
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 2264 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd402cc-emPYQJ.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd50e28-6JQrCl.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js?simply_static_page=1306
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js?simply_static_page=1306
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 14604 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd50e28-6JQrCl.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd650fc-rTcr1Z.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js?simply_static_page=1307
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js?simply_static_page=1307
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 17459 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd650fc-rTcr1Z.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd731d5-XYbyur.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?simply_static_page=1308
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?simply_static_page=1308
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 15073 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd731d5-XYbyur.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/brands.json
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd81b05-Ys8HIh.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/brands.json?simply_static_page=1309
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/brands.json?simply_static_page=1309
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 453081 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/json/brands.json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd81b05-Ys8HIh.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/json/brands.json
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/regular.json
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bd9faa0-MMz7Rv.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/regular.json?simply_static_page=1310
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/regular.json?simply_static_page=1310
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 103029 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/json/regular.json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bd9faa0-MMz7Rv.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/json/regular.json
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/solid.json
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bdb2e22-MR4dBQ.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/solid.json?simply_static_page=1311
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/json/solid.json?simply_static_page=1311
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 612560 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/json/solid.json
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bdb2e22-MR4dBQ.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/json/solid.json
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bdcf653-c4nKCT.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js?simply_static_page=1312
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js?simply_static_page=1312
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 41049 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bdcf653-c4nKCT.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bde1100-i5JLgj.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?simply_static_page=1313
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?simply_static_page=1313
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:103] Filesize: 151556 bytes
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bde1100-i5JLgj.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+[2024-03-22 18:02:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 411
+[2024-03-22 18:02:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bdf2ecc-ldLIdQ.tmp
+[2024-03-22 18:02:37] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg?simply_static_page=1314
+[2024-03-22 18:02:37] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg?simply_static_page=1314
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 749223 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bdf2ecc-ldLIdQ.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be2092f-IuReRK.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf?simply_static_page=1315
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf?simply_static_page=1315
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 151368 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-sfnt
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be2092f-IuReRK.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be32323-BDbN2P.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff?simply_static_page=1316
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff?simply_static_page=1316
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 97804 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be32323-BDbN2P.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be41738-C7axtX.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2?simply_static_page=1317
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2?simply_static_page=1317
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 81612 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff2
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be41738-C7axtX.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be4efda-lIPkvo.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?simply_static_page=1318
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?simply_static_page=1318
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 34034 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be4efda-lIPkvo.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be60127-sY9tSW.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg?simply_static_page=1319
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg?simply_static_page=1319
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 144714 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be60127-sY9tSW.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be77140-90dUb2.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf?simply_static_page=1320
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf?simply_static_page=1320
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 33736 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-sfnt
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be77140-90dUb2.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be875bb-nySQpv.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff?simply_static_page=1321
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff?simply_static_page=1321
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 16276 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be875bb-nySQpv.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7be98cc0-AWdFGK.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2?simply_static_page=1322
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2?simply_static_page=1322
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 13276 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff2
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7be98cc0-AWdFGK.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bea6a11-EiMgKW.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?simply_static_page=1323
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?simply_static_page=1323
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 203030 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bea6a11-EiMgKW.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7beb7f1c-NmEnib.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg?simply_static_page=1324
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg?simply_static_page=1324
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 918991 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7beb7f1c-NmEnib.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bedd318-SsyJwV.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf?simply_static_page=1325
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf?simply_static_page=1325
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:103] Filesize: 202744 bytes
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-sfnt
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bedd318-SsyJwV.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+[2024-03-22 18:02:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 411
+[2024-03-22 18:02:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7beef48a-Itzo5v.tmp
+[2024-03-22 18:02:38] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff?simply_static_page=1326
+[2024-03-22 18:02:38] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff?simply_static_page=1326
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 101652 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7beef48a-Itzo5v.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf0c34d-hxeGuj.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2?simply_static_page=1327
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2?simply_static_page=1327
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 78196 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff2
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf0c34d-hxeGuj.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.css
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf1d2a8-er6GXl.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.css?simply_static_page=1328
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.css?simply_static_page=1328
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 10523 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/hover/hover.css
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf1d2a8-er6GXl.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/hover/hover.css
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.min.css
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf323d4-Rc4exK.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.min.css?simply_static_page=1329
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/hover/hover.min.css?simply_static_page=1329
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 10019 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/hover/hover.min.css
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf323d4-Rc4exK.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/hover/hover.min.css
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf44e27-MEt0W2.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.js?simply_static_page=1330
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.js?simply_static_page=1330
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 12283 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf44e27-MEt0W2.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf52be4-VJ8u2V.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.min.js?simply_static_page=1331
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.min.js?simply_static_page=1331
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 7119 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.min.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf52be4-VJ8u2V.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/imagesloaded/imagesloaded.min.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf62acb-aEVIZo.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.js?simply_static_page=1332
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.js?simply_static_page=1332
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 32250 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf62acb-aEVIZo.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf71f99-g5OL2m.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js?simply_static_page=1333
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js?simply_static_page=1333
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 17655 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf71f99-g5OL2m.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf81b24-HrJAYK.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.js?simply_static_page=1334
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.js?simply_static_page=1334
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 4869 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf81b24-HrJAYK.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bf929c0-tqx9bZ.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.min.js?simply_static_page=1335
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.min.js?simply_static_page=1335
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 3315 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.min.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bf929c0-tqx9bZ.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-easing/jquery-easing.min.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bfa2b9e-kWYDiz.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.js?simply_static_page=1336
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.js?simply_static_page=1336
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 2063 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bfa2b9e-kWYDiz.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bfb1a7c-gnALCt.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js?simply_static_page=1337
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js?simply_static_page=1337
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 1030 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bfb1a7c-gnALCt.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bfc2130-hyFVwd.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.js?simply_static_page=1338
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.js?simply_static_page=1338
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 3393 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bfc2130-hyFVwd.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bfd28bc-qxUN3h.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?simply_static_page=1339
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?simply_static_page=1339
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 1801 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bfd28bc-qxUN3h.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 411
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7bfe2e7e-VUlhL1.tmp
+[2024-03-22 18:02:39] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.js?simply_static_page=1340
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.js?simply_static_page=1340
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:103] Filesize: 87550 bytes
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/nouislider/nouislider.js
+[2024-03-22 18:02:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7bfe2e7e-VUlhL1.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/nouislider/nouislider.js
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:39] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js
+[2024-03-22 18:02:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c0012ce-RS0Afs.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js?simply_static_page=1341
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js?simply_static_page=1341
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 23000 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c0012ce-RS0Afs.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c012130-ov7n4r.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.js?simply_static_page=1342
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.js?simply_static_page=1342
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 11565 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/nprogress/nprogress.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c012130-ov7n4r.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/nprogress/nprogress.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c0213d7-rE8vpE.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js?simply_static_page=1343
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js?simply_static_page=1343
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 5999 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c0213d7-rE8vpE.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c02f023-kN9kpv.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.js?simply_static_page=1344
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.js?simply_static_page=1344
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 35321 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c02f023-kN9kpv.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c03e57e-rJY2lr.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js?simply_static_page=1345
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js?simply_static_page=1345
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 18291 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c03e57e-rJY2lr.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c04c865-gCOoIS.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js?simply_static_page=1346
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js?simply_static_page=1346
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 23519 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c04c865-gCOoIS.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c05ef8a-OqmRwn.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css?simply_static_page=1347
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css?simply_static_page=1347
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 9117 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c05ef8a-OqmRwn.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c07e6b1-anmiyQ.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.js?simply_static_page=1348
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.js?simply_static_page=1348
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 4708 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/share-link/share-link.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c07e6b1-anmiyQ.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/share-link/share-link.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+[2024-03-22 18:02:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 411
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Windows\TEMP/65fdc7c085ea2-EXW5X4.tmp
+[2024-03-22 18:02:40] [class-ss-page-handler.php:38] URL Prepared:http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?simply_static_page=1349
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:251] Fetching URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?simply_static_page=1349
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:103] Filesize: 2752 bytes
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-javascript
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+[2024-03-22 18:02:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/65fdc7c085ea2-EXW5X4.tmp to C:\Users\celso\Local Sites\monti-advocacia-elementor\app\public/wp-content/uploads\simply-static\temp-files//wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-03-22 18:02:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-03-22 18:02:40] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 50 of 411 pages/files

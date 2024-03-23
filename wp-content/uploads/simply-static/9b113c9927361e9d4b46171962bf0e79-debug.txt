@@ -1,0 +1,5 @@
+[2024-03-22 18:02:36] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-03-22 18:02:36] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:55] Total pages: 411; Pages remaining: 361
+[2024-03-22 18:02:36] [class-ss-fetch-urls-task.php:58] URL: http://monti-advocacia-elementor.local/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf
+[2024-03-22 18:02:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 411
